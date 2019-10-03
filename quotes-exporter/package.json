@@ -1,0 +1,25 @@
+{
+  "name": "quotes-exporter",
+  "version": "1.0.0",
+  "description": "Exports qoutes from an exchage to some sink",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+ssh://git@gitlab.com/katlex/quotes-exporter.git"
+  },
+  "author": "Katlex Inc",
+  "license": "SEE LICENSE IN LICENSE.md",
+  "bugs": {
+    "url": "https://gitlab.com/katlex/quotes-exporter/issues"
+  },
+  "homepage": "https://gitlab.com/katlex/quotes-exporter#readme",
+  "private": true,
+  "dependencies": {
+    "axios": "^0.19.0",
+    "googleapis": "^40.0.0",
+    "readline": "^1.3.0"
+  }
+}

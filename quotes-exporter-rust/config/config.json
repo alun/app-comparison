@@ -1,0 +1,12 @@
+{
+	"sheet": "15CcPNtMZUSYhO99NOiFyHNjZCmgkvWnV5sKrGrtFLOk:Futures arbitrage",
+	"timeout": 10000,
+	"data": {
+		"kraken:etheur:sell": [
+			"B22"
+		],
+		"kraken-futures:fi_ethusd_190927:buy": [
+			"B23"
+		]
+	}
+}

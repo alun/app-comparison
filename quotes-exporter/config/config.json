@@ -1,0 +1,14 @@
+{
+    "sheet": "15CcPNtMZUSYhO99NOiFyHNjZCmgkvWnV5sKrGrtFLOk:Futures arbitrage",
+    "timeout": 5000,
+    "data": {
+        "kraken:xrpeur:sell": [
+            "K10",
+            "K12"
+        ],
+        "kraken-futures:fi_xrpusd_190927:buy": [
+            "K11",
+            "K13"
+        ]
+    }
+}
