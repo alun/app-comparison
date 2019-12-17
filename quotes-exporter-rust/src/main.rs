@@ -4,14 +4,6 @@ use serde::Deserialize;
 use std::collections::HashMap;
 use std::{fs, thread, time};
 
-// TODO
-// [x] connect to spread sheets api
-// [x] implement JSON config loading
-// [x] add kraken futures price loader
-// drive config through program data loading/sheet updating logic
-//   opt:
-// implement batch update
-
 #[derive(Deserialize, Debug)]
 struct Config {
     sheet: String,
